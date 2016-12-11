@@ -8,7 +8,7 @@ Currently only works on very simple geometry
 
 - All faces on the .obj model must be triangulated prior to importing
 - Large (>10 MB) files may not work properly in-game
-- Currently converts to geo, not bgeo (binary) so an additional conversion step is needed.
+- Currently converts to geo, not bgeo (binary) so an additional conversion step is needed. This step can be done in Houdini without causing errors.
 
 ## OBJ File Format Documentation
 
