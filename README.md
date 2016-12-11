@@ -2,7 +2,7 @@
 A program to convert Wavefront .OBJ files to Hockey? compatible .bgeo (.bhclassic) files
 
 ## Status
-Currently only works on very simple geometry
+Works on default geometry converted to obj and back. Needs further testing with custom models.
 
 ## Limitations
 
